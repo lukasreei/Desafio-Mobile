@@ -1,16 +1,27 @@
 # mobilechallenges
 
-A new Flutter project.
+# Desafio-Mobile
 
-## Getting Started
+Este repositório contém o projeto Desafio-Mobile, desenvolvido como parte de um desafio para a área de desenvolvimento mobile.
 
-This project is a starting point for a Flutter application.
+## Tecnologias Utilizadas
 
-A few resources to get you started if this is your first Flutter project:
+- **Flutter**: Framework utilizado para o desenvolvimento do aplicativo.
+- **Dart**: Linguagem de programação utilizada no projeto.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Pré-requisitos
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Antes de executar o projeto, é necessário garantir que você tenha as seguintes ferramentas instaladas:
+
+- [Flutter SDK](https://flutter.dev/docs/get-started/install) (versão 3.0 ou superior)
+- [Android Studio](https://developer.android.com/studio) ou [VS Code](https://code.visualstudio.com/)
+- [Xcode](https://developer.apple.com/xcode/) (caso esteja no macOS e queira rodar no iOS)
+
+## Como Executar o Projeto
+
+### 1. Clonar o repositório
+
+No seu terminal, execute o seguinte comando para clonar o repositório:
+
+```bash
+git clone https://github.com/lukasreei/Desafio-Mobile.git
